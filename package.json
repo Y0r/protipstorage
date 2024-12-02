@@ -1,0 +1,19 @@
+{
+  "name": "protipstorage",
+  "version": "1.0.0",
+  "description": "JS tool to index and process data from telegram channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Y0r/protipstorage.git"
+  },
+  "author": "Y0r (Yurii Panchuk)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Y0r/protipstorage/issues"
+  },
+  "homepage": "https://github.com/Y0r/protipstorage#readme"
+}
